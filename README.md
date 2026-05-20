@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Warehouse Operations Optimisation Suite
 
 End-to-end supply chain analytics system built on 10,000 sales records.
@@ -19,3 +20,6 @@ Open `warehouse.html` in any browser and upload your CSV for the interactive das
 
 ## Output
 Seven PNG figures saved to `warehouse_outputs/`.
+=======
+# inventory-optimization
+>>>>>>> 0a0afc4f270ec704aae6a2d8d6f4021ab34ebc9f
