@@ -1,0 +1,7 @@
+# Ignore large CSV if you don't want it on GitHub
+10000_Sales_Records.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.DS_Store
